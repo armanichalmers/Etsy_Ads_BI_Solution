@@ -229,13 +229,13 @@ The solution recommends a combination of technologies to support the proposed fu
 
 The full **30-page Client Solution Plan** documents the research, strategic analysis, proposed BI solution, implementation roadmap, data strategy, requirements, financial analysis, and projected business impact.
 
-📄 **[View the Client Solution Plan](ChalmersArmani_CapstoneClientSolutionPlan.pdf)**
+📄 **[View the Client Solution Plan](https://github.com/armanichalmers/Etsy_Ads_BI_Solution/blob/main/ChalmersArmani_CapstoneClientSolutionPlan.pdf)**
 
 ### 📊 Capstone Presentation Slides
 
 The presentation provides an executive-level summary of the business challenge, strategic analyses, proposed BI solution, implementation strategy, data and technology requirements, and projected financial impact.
 
-📊 **[View the Capstone Presentation Slides](ChalmersArmani_CapstoneProjectPresentation.pdf)**
+📊 **[View the Capstone Presentation Slides](https://github.com/armanichalmers/Etsy_Ads_BI_Solution/blob/main/ChalmersArmani_CapstoneProjectPresentation.pdf)**
 
 ### 🎥 Recorded Capstone Presentation
 
