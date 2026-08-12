@@ -1,4 +1,4 @@
-# 🛍️ Etsy Ads Business Intelligence Solution
+# 🛍️ Etsy Ads Business Intelligence Solution Plan
 
 ## 📌 Project Overview
 
